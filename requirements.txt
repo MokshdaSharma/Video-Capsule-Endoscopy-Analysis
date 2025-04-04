@@ -1,0 +1,13 @@
+tensorflow
+keras
+numpy
+pandas
+matplotlib
+opencv-python
+seaborn
+scikit-learn
+streamlit
+requests 
+fpdf
+pillow 
+python-docx

@@ -1,0 +1,21 @@
+# Ignore the virtual environment
+env/
+
+# Ignore Python script files that should not be tracked
+app.py
+word_interface.py
+
+# Ignore document files
+data.docx
+Goal.docx
+Medical_Report.pdf
+docs.pdf
+
+# Ignore image files
+doctor.png
+logo.png
+
+# Ignore dataset folders
+testing/
+training/
+validation/
