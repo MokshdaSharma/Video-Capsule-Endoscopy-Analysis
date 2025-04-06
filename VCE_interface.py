@@ -8,7 +8,7 @@ from fpdf import FPDF
 import docx  
 
 # Load model
-model = tf.keras.models.load_model(r'C:\Users\Mokshda Sharma\Desktop\My Projects\Capsule vision\disease_model.h5')
+model = tf.keras.models.load_model(r'C:\Users\Mokshda Sharma\Desktop\My Projects\VCE_Analysis\Capsule_vision\disease_model.h5')
 
 # Define class labels
 class_labels = [
